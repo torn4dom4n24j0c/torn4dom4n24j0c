@@ -1,4 +1,4 @@
-<h1 align="center"> नमस्ते 👋, I'm Aryan Chaudhary</h1>
+<h1 align="center"> 👋, I'm Aryan 🍡🤽‍♀️</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
 
 <p align="center">
