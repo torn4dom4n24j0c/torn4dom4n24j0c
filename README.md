@@ -95,23 +95,6 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 
 
 
-#### Tools I Know/Used:
-
-<p align="left">
-  
-  <img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="20" height="20"/>
-  
-</p>  
-
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aryanc55&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
 </p>
@@ -120,9 +103,7 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
 </p>
 
-#### T 
-#### X
-#### T 
+#### T
 #### My Projects:
 <p align="center">
 <b>Already Pinned Down for you sire!</b></br>
